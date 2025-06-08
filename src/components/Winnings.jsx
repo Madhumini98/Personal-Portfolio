@@ -167,14 +167,14 @@ const certificates = [
   },
   {
     imageUrl: certificate16,
-    title: "International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep",
+    title: "ISTQB 4.0+ Foundation Cert Prep",
     organization: "LinkedIn Learning",
     date: "May 2025",
     link: "https://www.linkedin.com/learning/certificates/6c6ff951e3a153f02501e250916232ac840ddee803d432cecc076e455725f507?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWkuXMM6hSoK4O8LcWCU38g%3D%3D",
   },
   {
     imageUrl: certificate17,
-    title: "Programming Foundations: Software Testing/QA",
+    title: "Software Testing/QA",
     organization: "LinkedIn Learning",
     date: "May 2025",
     link: "https://www.linkedin.com/learning/certificates/9c9cffce94f468ff89d17bc39b7be3afd60d1aaaac4552364dd4a0a58eb9bddd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWkuXMM6hSoK4O8LcWCU38g%3D%3D",
@@ -195,7 +195,7 @@ const certificates = [
   },
   {
     imageUrl: certificate20,
-    title: "Software Testing Foundations: Test Techniques",
+    title: "Software Testing Foundations",
     organization: "CompTIA",
     date: "May 2025",
     link: "https://www.linkedin.com/learning/certificates/ad83701f1cfc3357a5736a9ed3562f0ceb57b0e7e93c8d198436269462e4861e",
@@ -224,7 +224,7 @@ const certificates = [
 
   {
     imageUrl: certificate24,
-    title: "Prompt Engineering: How to Talk to the AIs",
+    title: "Prompt Engineering",
     organization: "LinkedIn Learning",
     date: "June 2025",
     link: "https://www.linkedin.com/learning/certificates/666f8b63b22d84e8992d1feaee991020d9115549e0fd30a82ebfafc6bd55eae1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWkuXMM6hSoK4O8LcWCU38g%3D%3D",
