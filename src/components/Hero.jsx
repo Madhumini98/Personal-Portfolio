@@ -75,7 +75,7 @@ const Hero = () => {
 
 const TypewriterComponent = () => {
   const typewriterStrings = [
-    "Software Tester",
+    "Quality Assurance Engineer",
     "Frontend Developer",
     "Backend Developer",
     "UI/UX Designer",
