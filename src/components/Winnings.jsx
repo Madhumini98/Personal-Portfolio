@@ -91,8 +91,8 @@ const certificates = [
   },
   {
     imageUrl: certificate27,
-    title: "Learning Jira Software",
-    organization: "Project Management Institute",
+    title: "Learning Jira",
+    organization: "PMI",
     date: "June 2025",
     link: "https://www.linkedin.com/learning/certificates/9c40e847bd1dc489dc4a14aa5546ec87ac929dd942a2c826e6f48cdb1d759024?trk=share_certificate",
   },
