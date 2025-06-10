@@ -8,6 +8,7 @@ import "swiper/css/pagination";
 import certificate15 from "../assets/images/certificates/15-slt.jpg";
 import certificate16 from "../assets/images/certificates/16-istqb.jpg";
 import certificate17 from "../assets/images/certificates/17-SoftwareTestingQA.jpg";
+import certificate27 from "../assets/images/certificates/27-Jira.jpg";
 import certificate18 from "../assets/images/certificates/18-ManualTesting.jpg";
 import certificate19 from "../assets/images/certificates/19-Succeeding.jpg";
 import certificate20 from "../assets/images/certificates/20-TestTechniques.jpg";
@@ -87,6 +88,13 @@ const certificates = [
     organization: "LinkedIn Learning",
     date: "May 2025",
     link: "https://www.linkedin.com/learning/certificates/9c9cffce94f468ff89d17bc39b7be3afd60d1aaaac4552364dd4a0a58eb9bddd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BWkuXMM6hSoK4O8LcWCU38g%3D%3D",
+  },
+  {
+    imageUrl: certificate27,
+    title: "Learning Jira Software",
+    organization: "Project Management Institute",
+    date: "June 2025",
+    link: "https://www.linkedin.com/learning/certificates/9c40e847bd1dc489dc4a14aa5546ec87ac929dd942a2c826e6f48cdb1d759024?trk=share_certificate",
   },
   {
     imageUrl: certificate18,
