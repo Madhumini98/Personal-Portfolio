@@ -17,7 +17,7 @@ const social_media_links = [
   },
   {
     icon: "logo-dribbble",
-    link: "https://dribbble.com/Madhumi__98",
+    link: "https://dribbble.com/madhumini-kodithuwakku",
   },
   {
     icon: "logo-facebook",
